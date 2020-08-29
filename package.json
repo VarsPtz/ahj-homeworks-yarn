@@ -1,0 +1,8 @@
+{
+  "name": "ahj-homework-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/VarsPtz/ahj-homeworks-yarn.git",
+  "author": "Alexandr Varygin <otz-job@mail.ru>",
+  "license": "MIT"
+}
